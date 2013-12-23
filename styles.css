@@ -1,0 +1,47 @@
+body {
+	background:url(tardis.jpg) center top;
+}
+
+#contain {
+	color: white;
+	width: 760px;
+	margin: auto;
+}
+
+nav {
+	background: #003b6f;
+	height: 40px;
+}
+
+ul li {
+	list-style: none;
+	display: inline-block;
+	margin-top: 9px;
+}
+
+nav a {
+	text-decoration: none;
+	color: white;
+	padding: 9px 10px 12px 10px;
+}
+
+nav a:hover {
+	background: white;
+	color: black;
+}
+
+h2 {
+	position: absolute;
+	bottom: 25px;
+	right: 75px;
+}
+
+h4 {
+	text-align: center;
+}
+
+img {
+	width: 500px;
+	display: block;
+	margin: auto;
+}
